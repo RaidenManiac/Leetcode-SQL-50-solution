@@ -10,11 +10,8 @@ Welcome to the **LeetCode SQL 50 Solutions** repository! This project provides w
 
 
 ## 📌 How to Use?
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/leetcode-sql-50.git
-```
-2️⃣ Navigate to the solutions directory.
+
+ Navigate to the solutions directory.
 
 ## 📢 Contributions
 Found a better approach? Have suggestions? Feel free to contribute by submitting a pull request! 🚀
