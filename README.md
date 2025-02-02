@@ -19,4 +19,4 @@ git clone https://github.com/yourusername/leetcode-sql-50.git
 ## 📢 Contributions
 Found a better approach? Have suggestions? Feel free to contribute by submitting a pull request! 🚀
 
-[🔗 Visit Repository]([https://github.com/yourusername/leetcode-sql-50](https://github.com/RaidenManiac/Leetcode-SQL-50-solution/tree/main))
+[🔗 Visit Repository](https://github.com/RaidenManiac/Leetcode-SQL-50-solution/tree/main)
